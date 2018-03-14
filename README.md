@@ -1,5 +1,5 @@
 ### smash-dream
-*vr game for relieving pressure"  
+*vr game for relieving pressure*   
 Game Engine: Unity3D  
 VR kit: Baofeng Mojing Kit  
 Interaction device: Baofeng Mojing with control handle  
